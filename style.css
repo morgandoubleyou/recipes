@@ -1,4 +1,20 @@
-p {
-background-color: lightgray;
-color: navy;
+
+
+.homepage{
+    background-color: lightpink;
+}
+
+.external {
+    background-color: red;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+
+.button{
+    background-color: lightblue;
+    color: white;
+    border-radius: 8px;
+    border: 2px solid
 }
